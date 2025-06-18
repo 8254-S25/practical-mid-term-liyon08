@@ -60,14 +60,16 @@ Redo the last command and save the output of the command to a file **`pr1.txt`**
 
 **3.**
 
-```ls -l > pr1.txt
+```
+ls -l > pr1.txt
 
 
 ```
 
 **4. What are the permissions of the file you just created?**
 
-```ls -l pr1.txt
+```
+-rw-r--r--
 
 
 ```
