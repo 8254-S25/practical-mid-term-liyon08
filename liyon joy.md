@@ -102,7 +102,8 @@ mkdir midtermExam-301
 **8. What are the permissions of this new folder  ?**
 
 ```
-ls -ld midtermExam-301
+drwxr-xr-x
+
 
 ```
 
