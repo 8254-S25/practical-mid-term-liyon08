@@ -1,0 +1,10 @@
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 localhost:ipp           0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:ssh             0.0.0.0:*               LISTEN     
+tcp        0     92 172.20.10.3:ssh         172.20.10.2:55913       ESTABLISHED
+tcp        0      0 172.20.10.3:ssh         172.20.10.3:41060       ESTABLISHED
+tcp        0      0 172.20.10.3:41060       172.20.10.3:ssh         ESTABLISHED
+tcp6       0      0 [::]:5900               [::]:*                  LISTEN     
+tcp6       0      0 [::]:ssh                [::]:*                  LISTEN     
+tcp6       0      0 localhost:ipp           [::]:*                  LISTEN     

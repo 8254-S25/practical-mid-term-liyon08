@@ -1,0 +1,5 @@
+total 16
+4 drwxr-xr-x  4 root     root     4096 Jun 18 11:41 .
+4 drwxr-xr-x 18 root     root     4096 May 12 20:17 ..
+4 drwx------ 16 liyo     liyo     4096 Jun 18 11:44 liyo
+4 drwxr-xr-x  2 liyonjoy liyonjoy 4096 Jun 18 11:41 liyonjoy
